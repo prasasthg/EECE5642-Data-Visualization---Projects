@@ -1,0 +1,6 @@
+0 - dislike - Hard Left
+1 - like - Hard Right
+2 - ok - Forward
+3 - peace - Soft Right
+4 - peace inv - Soft Left
+5 - stop - Brake
